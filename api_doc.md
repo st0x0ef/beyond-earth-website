@@ -3,7 +3,7 @@
 * json data only
 * basic parameters
   * fn: always required, decides which api function is used
-all requests via POST to "exampledomain.eu/api.php"
+* all requests via POST to "exampledomain.eu/api.php"
 ## Features
 
 * get the serverstatus
